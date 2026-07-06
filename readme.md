@@ -1,7 +1,3 @@
-Com certeza, Hilton. Adicionei o **Aviso Crítico** logo no início do manual. Isso evita que o usuário confunda os processos ou tente rodar scripts incompatíveis na mesma pasta.
-
-Aqui está o manual atualizado e profissional para o seu uso ou de sua equipe:
-
 ---
 
 # 📖 Manual de Instalação e Uso: Conversor de Datas
