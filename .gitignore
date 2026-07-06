@@ -1,0 +1,33 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Arquivos de IDE (PyCharm, VS Code)
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+
+# Arquivos de sistema (Windows)
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Arquivos temporários e de log
+*.log
+*.tmp
+*.bak
+
+# Arquivos do Excel que o script gera
+*_Formatado.xlsx
+
+# Caso não queira subir os arquivos originais (.xlsx e .csv)
+# Descomente a linha abaixo se desejar ignorá-los também:
+# *.xlsx
+# *.csv
