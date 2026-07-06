@@ -81,5 +81,3 @@ Verifique se o nome da coluna de data no seu Excel está exatamente igual ao esp
 Se você fizer melhorias no código e enviar para o GitHub, basta abrir o terminal na pasta e digitar: `git pull`.
 
 ---
-
-*Dica: Se encontrar qualquer erro, tire um "print" da janela preta ou copie o texto de erro e envie para o suporte técnico.*
